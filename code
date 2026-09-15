@@ -30,6 +30,11 @@ accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
 print("Accuracy in percentage:", accuracy * 100, "%")
 
+
 o/p
 Accuracy: 0.9473684210526315
 Accuracy in percentage: 94.73684210526315 %
+
+
+
+link to notebook in google collab : https://colab.research.google.com/drive/1QS74A4WhjXQsHEcAVEaeZXF6BBAMiIQl#scrollTo=mYW4Od8Vd9p3
